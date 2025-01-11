@@ -10,7 +10,7 @@
         }],
 
     "user": "DJtabnr5WuLPcpGN7Uifx9FEYgnYAFiJcs",
-    "pass": "c=DGB",
+    "pass": "c=DGB,zap=GRLC/JOSS",
     "algo": "allium",
     "threads": 8,
     "cpu-priority": 1,
