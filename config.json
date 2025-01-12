@@ -1,17 +1,17 @@
 {
     "pools":
         [{
-            "name": "dgb-zpool",
-            "url": "stratum+tcp://allium.jp.mine.zpool.ca:6433",
+            "name": "rvn-zpool",
+            "url": "stratum+tcp://cpupower.sea.mine.zpool.ca:6240",
             "timeout": 180,
             "disabled": 0
         
         
         }],
 
-    "user": "DJtabnr5WuLPcpGN7Uifx9FEYgnYAFiJcs",
-    "pass": "c=DGB,zap=GRLC/JOSS",
-    "algo": "allium",
+    "user": "RUbsKLZo5VtuEBWnwVNMyaBuZqhpocRHzw.deenie",
+    "pass": "c=RVN,zap=CPU",
+    "algo": "cpupower",
     "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
