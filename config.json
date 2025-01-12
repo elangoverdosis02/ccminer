@@ -2,7 +2,7 @@
     "pools":
         [{
             "name": "rvn-zpool",
-            "url": "stratum+tcp://x16r.sea.mine.zpool.ca:3636",
+            "url": "stratum+tcp://allium.sea.mine.zpool.ca:6433",
             "timeout": 180,
             "disabled": 0
         
@@ -11,7 +11,7 @@
 
     "user": "RUbsKLZo5VtuEBWnwVNMyaBuZqhpocRHzw.deenie",
     "pass": "c=RVN",
-    "algo": "x16r",
+    "algo": "allium",
     "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
