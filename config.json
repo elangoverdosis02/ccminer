@@ -2,7 +2,7 @@
     "pools":
         [{
             "name": "rvn-zpool",
-            "url": "stratum+tcp://cpupower.sea.mine.zpool.ca:6240",
+            "url": "stratum+tcp://x16r.sea.mine.zpool.ca:3636",
             "timeout": 180,
             "disabled": 0
         
@@ -10,7 +10,7 @@
         }],
 
     "user": "RUbsKLZo5VtuEBWnwVNMyaBuZqhpocRHzw.deenie",
-    "pass": "c=RVN,zap=CPU",
+    "pass": "c=RVN",
     "algo": "x16r",
     "threads": 8,
     "cpu-priority": 1,
